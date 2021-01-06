@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-06T13:25:56.704Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="utdz_J6kSlzPYajcq2Rx" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-06T13:26:14.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="y5thAXzJoei0ncixJ1H8" version="14.1.2" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
@@ -147,9 +147,6 @@
         </mxCell>
         <mxCell id="it9dIzczzjsBIK8fyTgU-2105" value="订单服务" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.azure_website;dashed=1;fontSize=14;fontColor=#004C99" vertex="1" parent="1">
           <mxGeometry x="455" y="510" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="it9dIzczzjsBIK8fyTgU-2109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="it9dIzczzjsBIK8fyTgU-2107" target="2069">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="it9dIzczzjsBIK8fyTgU-2107" value="完整架构" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="772.5" y="191" width="140" height="470" as="geometry" />
